@@ -16,12 +16,12 @@
 
 ### Option A: curl (recommended)
 ```bash
-bash -c "$(curl -sL https://raw.githubusercontent.com/anomalyco/rumbod-cli/main/install.sh)"
+bash -c "$(curl -sL https://raw.githubusercontent.com/rumboom/rumbod-cli/main/install.sh)"
 ```
 
 ### Option B: wget
 ```bash
-bash -c "$(wget -qO- https://raw.githubusercontent.com/anomalyco/rumbod-cli/main/install.sh)"
+bash -c "$(wget -qO- https://raw.githubusercontent.com/rumboom/rumbod-cli/main/install.sh)"
 ```
 
 ### Option C: Base64 self-extracting
